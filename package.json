@@ -1,0 +1,15 @@
+{
+  "name": "@imran-baitham/github-package-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "url": "git://github.com/imran-baitham/github-package-demo.git"
+  },
+  "license": "ISC"
+}
